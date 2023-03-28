@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shruti-Mishra27&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Shruti-Mishra27&icon=0&color=1)](https://visitcount.itsvg.in)
 
