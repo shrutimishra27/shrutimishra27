@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 👋 Hey Guys, Shruti Mishra here!
+# 🌟 About Me:
 🔭 I’m currently working on MERN stack Projects<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with AI-ML Professionals<br>🌱 I’m currently learning AI-ML tools via Python<br>
 
 
@@ -17,5 +18,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shruti-Mishra27&icon=0&color=1)](https://visitcount.itsvg.in)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Shruti-Mishra27&theme=tokyo-night)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
