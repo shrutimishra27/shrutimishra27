@@ -1,6 +1,6 @@
 # 👋 Hey Guys, Shruti Mishra here!
 # 🌟 About Me:
-🔭 I’m currently working on MERN stack Projects<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with AI-ML Professionals<br>🌱 I’m currently learning AI-ML tools via Python<br>
+🔭 I’m currently working on MERN & PERN stack Projects<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with AI-ML Professionals<br>🌱 I’m currently learning AI-ML tools via Python<br>
 
 
 ## 🌐 Socials:
