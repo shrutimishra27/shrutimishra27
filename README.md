@@ -15,6 +15,10 @@
 ![Shruti's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=shrutimishra27&theme=algolia&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutimishra27&layout=donut&theme=algolia)
 
+## Experience:
+[![Shruti27's GitHub | Stats](https://stats.quine.sh/Shruti27/github?theme=dark)](https://quine.sh)
+<!-- [![Shruti27's GitHub | Topics](https://stats.quine.sh/Shruti27/topics-over-time?theme=dark)](https://quine.sh) -->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shrutimishra27&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
